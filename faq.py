@@ -7,7 +7,7 @@ def faq():
     warnings.filterwarnings("ignore")
 
 # Initialize the Google Generative AI model
-    llm = GoogleGenerativeAI(model="models/text-bison-001", google_api_key="AIzaSyCUy3AB6ywc11Kkf8VG7M64m7Svfky7qxs", temperature=0.5)
+    llm = GoogleGenerativeAI(model="models/text-bison-001", google_api_key="Enter your serect api key", temperature=0.5)
 
     # Function to ask a question and get an answer
     def ask_question(question):
