@@ -72,6 +72,9 @@ Access the application at http://localhost:8501 in your web browser.
 
 ## 🖼️ Screenshots
 
+## 🎥 Demo
+A live demonstration of the application
+ [🔗 Watch the Demo Video](https://drive.google.com/file/d/1K_sOnOYNt4lQkzxHjZMBy0xhV6XPJfN6/view?usp=sharing)
 ## 📌 Future Enhancements
 
 Implement transaction history with filtering options.​
