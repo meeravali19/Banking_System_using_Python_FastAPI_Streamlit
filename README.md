@@ -72,7 +72,7 @@ Access the application at http://localhost:8501 in your web browser.
 
 ## 🖼️ Screenshots
 ![](https://github.com/meeravali19/Banking_System_using_Python_FastAPI_Streamlit/blob/master/images/Screenshot%20(23).png)
-![img alt]()
+![img alt](https://github.com/meeravali19/Banking_System_using_Python_FastAPI_Streamlit/blob/master/images/Screenshot%20(3).png)
 
 ## 🎥 Demo
 A live demonstration of the application
