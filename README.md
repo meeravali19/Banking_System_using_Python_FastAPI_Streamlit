@@ -71,7 +71,7 @@ This project is a full-stack banking application that combines the power of Fast
 Access the application at http://localhost:8501 in your web browser.
 
 ## 🖼️ Screenshots
-![]()
+![img alt]()
 ## 🎥 Demo
 A live demonstration of the application
  [🔗 Watch the Demo Video](https://drive.google.com/file/d/1K_sOnOYNt4lQkzxHjZMBy0xhV6XPJfN6/view?usp=sharing)
